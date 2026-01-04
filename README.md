@@ -56,11 +56,17 @@ See a line chart of your daily progress
 
 Compare performance across sessions
 
-INSTALLATION(*IMPORTANT*)
+**INSTALLATION(*IMPORTANT*)**
 Please make sure to have git lfs installed on your computer or otherwise the files downloaded will be empty 
+
 Here are the commands that you'll need to use during installation:
+
 ->git lfs install
+
 ->git lfs version
+
 ->git clone "repository_link"
+
 ->cd "file_name or path"
+
 ->git lfs pull
